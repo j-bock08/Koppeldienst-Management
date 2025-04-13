@@ -61,6 +61,4 @@ public class LoginView extends ParentView implements LoginViewInterface {
         System.out.println("Passwort: ");
         return this.stringInput(true);
     }
-
-
 }
